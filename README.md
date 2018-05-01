@@ -30,6 +30,7 @@ How to create from scratch:
    Runtimes: Apache Tomcat v7.0
 
 3. Deployment Descriptor - Generate Deployment Descriptor Stub
+(Project –> RightClick –> Java EE Tools –> Generate Deployment Descriptor Stub)
    (creates web.xml)
 
 4. Create file:  /src/main/webapp/index.jsp
